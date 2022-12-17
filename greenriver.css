@@ -1,0 +1,25 @@
+
+      .title {
+        font-family: 'Ultra', serif;
+	font-size: 34px;
+	font-weight: 100;
+	color: darkgreen;
+	}
+
+       .subtitle {
+        font-family: 'Ultra', serif;
+	font-size: 2.0cw 34px;
+	font-weight: 100;
+}
+
+      2hr
+       {
+       border-top: 1px solid darkgreen;
+       color: darkgreen;
+       }
+       
+      2h2
+       {
+              color: darkgreen;
+       }
+
